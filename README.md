@@ -40,7 +40,7 @@ $ Method  : Hands-on labs → Write-ups → Share
 
 | # | Title | Topics | Article | Difficulty |
 |---|-------|--------|---------|------------|
-| 001 | Identifying the AWS Account ID from a Public S3 Bucket | S3, IAM, STS, s3:ResourceAccount | [📖 Read](YOUR_MEDIUM_LINK_HERE) | ![Beginner](https://img.shields.io/badge/-Beginner-green?style=flat-square) |
+| 001 | Identifying the AWS Account ID from a Public S3 Bucket | S3, IAM, STS, s3:ResourceAccount | [📖 EN][(YOUR_MEDIUM_EN)](https://medium.com/@kent.ma04/identifying-the-aws-account-id-from-a-public-s3-bucket-pwnedlabs-2026-english-e761d37e2c42) | [📖 ID][(YOUR_MEDIUM_ID)](https://medium.com/@kent.ma04/identifying-the-aws-account-id-from-a-public-s3-bucket-pwnedlabs-2026-bahasa-indonesia-eb1e21bca28c) | ![Beginner](https://img.shields.io/badge/-Beginner-green?style=flat-square) |
 | 002 | *(Coming soon)* | — | — | — |
 | 003 | *(Coming soon)* | — | — | — |
 
