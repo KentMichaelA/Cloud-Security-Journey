@@ -41,7 +41,7 @@ $ Method  : Hands-on labs → Write-ups → Share
 | # | Title | Topics | EN | ID | Difficulty |
 |---|-------|--------|----|----|------------|
 | 001 | Identifying the AWS Account ID from a Public S3 Bucket | S3, IAM, STS, s3:ResourceAccount | [📖 EN][(https://medium.com/@kent.ma04/identifying-the-aws-account-id-from-a-public-s3-bucket-pwnedlabs-2026-english-e761d37e2c42)] | [📖 ID][(https://medium.com/@kent.ma04/identifying-the-aws-account-id-from-a-public-s3-bucket-pwnedlabs-2026-bahasa-indonesia-eb1e21bca28c)] | ![Beginner](https://img.shields.io/badge/-Beginner-green?style=flat-square) |
-| 002 | *(Coming soon)* | — | — | — | — |
+| 002 | AWS S3 Enumeration Basics | S3, IAM | [📖 EN][(https://medium.com/@kent.ma04/aws-s3-enumeration-basics-pwnedlabs-2026-english-f0742a489ef0)] | [📖 ID][(https://medium.com/@kent.ma04/aws-s3-enumeration-basics-pwnedlabs-2026-bahasa-indonesia-b357c3c4b615)]  | ![Beginner](https://img.shields.io/badge/-Beginner-green?style=flat-square) |
 | 003 | *(Coming soon)* | — | — | — | — |
 
 ---
